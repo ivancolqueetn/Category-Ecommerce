@@ -1,6 +1,7 @@
 {
   "name": "category-react-fakestore",
   "private": true,
+  "homepage": "https://ivancolqueetn.github.io/Category-Ecommerce/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
